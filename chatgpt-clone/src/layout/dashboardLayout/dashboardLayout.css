@@ -1,0 +1,17 @@
+.dashBoardLayout{
+    display: flex;
+    gap: 50px;
+    padding-top: 20px;
+    height: 100%;
+
+    .menu{
+        flex: 1;
+    }
+
+    .content{
+        flex: 4;
+        border-radius: 20px;
+        background-color: #12101b;
+        height: 100%;
+    }
+}
